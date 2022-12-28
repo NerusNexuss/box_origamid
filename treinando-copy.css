@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  color:rgb(16, 15, 15); 
+  font-family: arial;  
+  font-weight: bolder;
+}  
+
+.card {
+  background: #111; 
+  width: 40%; 
+  border: 0px solid;
+  height: 160px;  
+  color: aliceblue; 
+  font-family: arial;    
+  margin-left: auto;
+  margin-right: auto; 
+  padding: 20px 20px 0 20px; 
+  margin-top: 20px; 
+  border-radius: 10px;
+  
+} 
+
+P {
+  font-family: arial;  
+  font-size: 15px; 
+  color: rgb(167, 169, 164);
+}  
+
+.cor { 
+  color: #febe01;
+} 
+
+button{ 
+  background: #febe01; 
+  font-size: 20px; 
+  border: 0cm;
+  border-radius: 4px;
+}
+
